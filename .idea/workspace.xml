@@ -81,13 +81,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.StudentTest1">
-    <configuration name="Ordertest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.Exorder.Ordertest" />
+  <component name="RunManager" selected="Application.StudentTest2">
+    <configuration name="StudentTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.staticEX.StudentTest1" />
       <module name="java_doitbasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.Exorder.*" />
+          <option name="PATTERN" value="basic.staticEX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.staticEX.StudentTest1" />
+    <configuration name="StudentTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.staticEX.StudentTest2" />
       <module name="java_doitbasic" />
       <extension name="coverage">
         <pattern>
@@ -148,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ordertest" />
       <item itemvalue="Application.studenttest" />
       <item itemvalue="Application.ThisTest" />
       <item itemvalue="Application.TakeTrans" />
       <item itemvalue="Application.StudentTest1" />
+      <item itemvalue="Application.StudentTest2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest2" />
         <item itemvalue="Application.StudentTest1" />
         <item itemvalue="Application.TakeTrans" />
         <item itemvalue="Application.ThisTest" />
         <item itemvalue="Application.studenttest" />
-        <item itemvalue="Application.Ordertest" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635426082749</updated>
-      <workItem from="1635426084821" duration="13518000" />
+      <workItem from="1635426084821" duration="16662000" />
     </task>
     <servers />
   </component>
