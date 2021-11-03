@@ -1,4 +1,4 @@
-package basic.singleton;
+package basic.singleton.company;
 
 public class CompanyTest {
     public static void main(String[] args) {

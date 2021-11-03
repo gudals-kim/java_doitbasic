@@ -1,4 +1,4 @@
-package basic.singleton;
+package basic.singleton.company;
 
 public class Company {
     private static Company instance = new Company();
