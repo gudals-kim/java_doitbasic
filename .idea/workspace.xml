@@ -81,7 +81,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.CarFactoryTest">
+  <component name="RunManager" selected="Application.arrayTest">
     <configuration name="CarFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.singleton.factory.CarFactoryTest" />
       <module name="java_doitbasic" />
@@ -134,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeTrans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.cooperation.TakeTrans" />
+    <configuration name="arrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arraypart.arrayTest" />
       <module name="java_doitbasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.cooperation.*" />
+          <option name="PATTERN" value="basic.arraypart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TakeTrans" />
       <item itemvalue="Application.StudentTest1" />
       <item itemvalue="Application.StudentTest2" />
       <item itemvalue="Application.CompanyTest" />
       <item itemvalue="Application.CarFactoryTest" />
+      <item itemvalue="Application.arrayTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayTest" />
         <item itemvalue="Application.CarFactoryTest" />
         <item itemvalue="Application.CompanyTest" />
         <item itemvalue="Application.StudentTest2" />
         <item itemvalue="Application.StudentTest1" />
-        <item itemvalue="Application.TakeTrans" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,9 @@
       <option name="presentableId" value="Default" />
       <updated>1635426082749</updated>
       <workItem from="1635426084821" duration="17910000" />
-      <workItem from="1635918030026" duration="6556000" />
+      <workItem from="1635918030026" duration="7837000" />
+      <workItem from="1635931055214" duration="2178000" />
+      <workItem from="1636002952206" duration="1530000" />
     </task>
     <servers />
   </component>
