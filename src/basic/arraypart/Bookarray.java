@@ -15,6 +15,7 @@ public class Bookarray {
         }
         for(int i=0; i< library.length; i++){
             System.out.println(library[i]);
+            System.out.println(library[i]);
         }
     }
 }
