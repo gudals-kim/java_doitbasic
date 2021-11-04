@@ -81,7 +81,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
-  <component name="RunManager" selected="Application.arrayTest">
+  <component name="RunManager" selected="Application.Bookarray">
+    <configuration name="Bookarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.arraypart.Bookarray" />
+      <module name="java_doitbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.arraypart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CarFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.singleton.factory.CarFactoryTest" />
       <module name="java_doitbasic" />
@@ -101,19 +114,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="basic.singleton.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.staticEX.StudentTest1" />
-      <module name="java_doitbasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.staticEX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,19 +148,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StudentTest1" />
       <item itemvalue="Application.StudentTest2" />
       <item itemvalue="Application.CompanyTest" />
       <item itemvalue="Application.CarFactoryTest" />
       <item itemvalue="Application.arrayTest" />
+      <item itemvalue="Application.Bookarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bookarray" />
         <item itemvalue="Application.arrayTest" />
         <item itemvalue="Application.CarFactoryTest" />
         <item itemvalue="Application.CompanyTest" />
         <item itemvalue="Application.StudentTest2" />
-        <item itemvalue="Application.StudentTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +175,7 @@
       <workItem from="1635426084821" duration="17910000" />
       <workItem from="1635918030026" duration="7837000" />
       <workItem from="1635931055214" duration="2178000" />
-      <workItem from="1636002952206" duration="1530000" />
+      <workItem from="1636002952206" duration="3922000" />
     </task>
     <servers />
   </component>
